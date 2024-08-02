@@ -1,28 +1,35 @@
-<h1 align="center">Hi, I'm Udhayakumar</h1>
-<h3 align="center">Passionate Business Analytics</h3>
+# Hi there, I'm Udhayakumar! 👋
+<h3>Passionate Business Analytics</h3>
 
-<p align="Center"> <img src="https://komarev.com/ghpvc/?username=udhaya55&label=Profile%20views&color=0e75b6&style=flat" alt="udhaya55" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=udhaya55&label=Profile%20views&color=0e75b6&style=flat" alt="udhaya55" /> </p>
 
--  I’m currently learning **python advanced libraries**
+Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, Tableau, SQL and Python, I'm Passionate about applying theoretical knowledge to practical problems and eager to contribute to data-driven decision-making in a dynamic environment. Ready to leverage my skills and enthusiasm to deliver impactful solutions in my professional journey.
 
--  All of my projects are available at
-  [Projects](https://github.com/udhaya55?tab=projects)
+## About Me
+- 📊 Aspiring Business Analyst
+- 📚 Currently Upskilling in Business Analyst Field
+- 🎓 Pursing MBA in Finance & Business Analytics
+- 📄 Know my Experience
+  [Resume](https://drive.google.com/file/d/1wXrQUf_ngYJ9HCrKylBd7PY8Eo2zVw63/view?usp=drive_link)
 
--  I write articles on LinkedIn [LinkedIn](https://www.linkedin.com/in/udhaya55)
+## Tools and Languages Used
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![SPSS](https://img.shields.io/badge/SPSS-E97627?style=for-the-badge&logo=SPSS&logoColor=white)
 
--  Reach out me
-  **udhayakumar6453@gmail.com**
+## Projects
 
-- Know my Experience
-  [Resume Link](https://drive.google.com/file/d/1wXrQUf_ngYJ9HCrKylBd7PY8Eo2zVw63/view?usp=sharing)
+## Certificates
+Here are some of the certifications I have achieved:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/udhaya55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udhaya55" height="30" width="40" /></a>
-</p>
+## Let's Connect!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhaya55)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=datacamp&logoColor=white)](https://udhaya55.github.io/Portfolio)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udhayakumar6453@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+  Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udhaya55&show_icons=true&locale=en&layout=compact" alt="udhaya55" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udhaya55&show_icons=true&locale=en&layout=compact" alt="udhaya55" /></p>
