@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## Projects
 
+[View All](https://github.com/udhaya55)
+
 ## Highlights
 
 - Dashboard On Day - Microsoft 
