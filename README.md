@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - 📚 Currently Upskilling in Business Analyst Field
 - 🎓 Pursing MBA in Finance & Business Analytics
 - 📄 Know my Experience
-  [Resume](https://drive.google.com/file/d/1wXrQUf_ngYJ9HCrKylBd7PY8Eo2zVw63/view?usp=drive_link)
+  [Resume](https://drive.google.com/file/d/1vtfGCQ9ecS4NBliC_M3CfXwJUvZVtTdu/view?usp=drivesdk)
 
 ## Tools and Languages Used
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -22,8 +22,18 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## Projects
 
+## Highlights
+
+- Dashboard On Day - Microsoft 
+Event Attend [View Credential](https://drive.google.com/file/d/1wJ1emrwEnfSwbTf4w7mgANbsOtg_uJDg/view?usp=drivesdk)
+
 ## Certificates
 Here are some of the certifications I have achieved:
+
+- Excel For Business Analysts [View Credential](https://drive.google.com/file/d/1wSs1QTTZU7Zs4i79NHADa-EgP0LtZDQh/view?usp=drivesdk)
+
+- Power BI with Excel [View Credential](https://drive.google.com/file/d/1wOXKgRQ4aU81geh08ceLKh7fO2nROpc8/view?usp=drivesdk)
+
 
 ## Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhaya55)
