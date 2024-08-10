@@ -1,7 +1,7 @@
 # Hi there, I'm Udhayakumar! 👋
 <h3>Passionate Business Analytics</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=udhaya55&label=Profile%20views&color=EDFF5A&style=black" alt="udhaya55" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=udhaya55&label=Profile%20views&color=FF5430&style=flat" alt="udhaya55" /> </p>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frajdas2001&labelColor=%23697689&countColor=%23dce775)
 
