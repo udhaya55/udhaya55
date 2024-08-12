@@ -1,7 +1,7 @@
 # Hi there, I'm  [Udhayakumar!](https://udhaya55.github.io/Portfolio)
 <h3>Passionate Business Analytics</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=udhaya55&label=Profile%20views&color=FF5430&style=flat" alt="udhaya55" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=udhaya55&label=Profile%20views&color=0165D5&style=flat" alt="udhaya55" /> </p>
 
 Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, Tableau, SQL and Python, I'm Passionate about applying theoretical knowledge to practical problems and eager to contribute to data-driven decision-making in a dynamic environment. Ready to leverage my skills and enthusiasm to deliver impactful solutions in my professional journey.
 
