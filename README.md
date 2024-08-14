@@ -36,6 +36,7 @@ Here are some of the certifications I have achieved:
 
 - Power BI with Excel [View Credential](https://drive.google.com/file/d/1wOXKgRQ4aU81geh08ceLKh7fO2nROpc8/view?usp=drivesdk)
 
+- Financial Statement Analysis and Reporting - NPTL [View Credential](https://drive.google.com/file/d/1wKmJTyGYZisA4I8pPfjxhwbK5l2RyBJw/view?usp=drivesdk)
 
 ## Let's Connect!
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udhayakumar6453@gmail.com)
