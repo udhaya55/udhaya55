@@ -22,11 +22,12 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## Projects
 
-- ## Pizza Sales Dashboard [View](https://github.com/udhaya55/Pizza-Sales-Dashboard)
+- ### Pizza Sales Dashboard
 
-These visualizations provide a glimpse into data-driven decision-making, ranging from order insights to comprehensive revenue breakdowns
+These visualizations provide a glimpse into data-driven decision-making, ranging from order insights to comprehensive revenue breakdowns  [View](https://github.com/udhaya55/Pizza-Sales-Dashboard)
 
 [View All](https://github.com/udhaya55)
+
 
 ## Highlights
 
